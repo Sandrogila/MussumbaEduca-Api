@@ -1,22 +1,8 @@
 # MussumbaEduca-Api
 ## crud 
 # funcionalidades
-## Estudantes
-### Get pesquisar
 
-
-### Get pesquisar Por Id
-
-
-### Post Criar novo estudante
-
-
-### Delet deletar estudante
-
-
-### Put atualizar estudantes
-
-
+### Gerenciar Curso,Estudantes,Instrutores, Curso_Estudantes
 ## Curso
 
 ### Get pesquisar
@@ -34,7 +20,31 @@
 
 ## Instrutores
 ### Get pesquisar
+![instrutores](https://github.com/Sandrogila/MussumbaEduca-Api/assets/97849804/fe4ff665-aec1-41d3-95da-3f8560f3c74f)
+
 ### Get por ID
+![instrutoresporId](https://github.com/Sandrogila/MussumbaEduca-Api/assets/97849804/28dc4142-79e2-4b75-bb52-c1db832c64bf)
+
 ### Post
+![instrutorPost](https://github.com/Sandrogila/MussumbaEduca-Api/assets/97849804/8c94253e-a844-400f-8ad1-63436359466b)
+
 ### Put
+![instrutorPut](https://github.com/Sandrogila/MussumbaEduca-Api/assets/97849804/f9249558-6e5f-4843-aacf-c9f6eee0b901)
+
 ### Delet
+![instutotDelete](https://github.com/Sandrogila/MussumbaEduca-Api/assets/97849804/2ecbd7b2-f250-4c6c-b77d-33a2a769d31d)
+
+## Estudantes
+### Get pesquisar
+
+
+### Get pesquisar Por Id
+
+
+### Post Criar novo estudante
+
+
+### Delet deletar estudante
+
+
+### Put atualizar estudantes
