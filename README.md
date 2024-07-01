@@ -34,7 +34,9 @@
 ### Delet
 ![instutotDelete](https://github.com/Sandrogila/MussumbaEduca-Api/assets/97849804/2ecbd7b2-f250-4c6c-b77d-33a2a769d31d)
 
+## A logica é a mesma para estudantes
 ## Estudantes
+### 
 ### Get pesquisar
 
 
