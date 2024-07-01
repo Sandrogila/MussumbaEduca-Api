@@ -2,7 +2,7 @@
 ## crud 
 # funcionalidades
 
-### Gerenciar Curso,Estudantes,Instrutores, Curso_Estudantes
+### Gerenciar Curso,Estudantes,Instrutores
 ## Curso
 
 ### Get pesquisar
